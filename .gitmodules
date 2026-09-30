@@ -1,0 +1,6 @@
+[submodule "basic-locomotion-isaaclab"]
+	path = basic-locomotion-isaaclab
+	url = https://github.com/Y32CODE/basic-locomotion-isaaclab.git
+[submodule "unitree-ros2-dls"]
+	path = unitree-ros2-dls
+	url = https://github.com/Y32CODE/unitree-ros2-dls.git
